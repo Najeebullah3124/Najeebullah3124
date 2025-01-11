@@ -1,3 +1,34 @@
+
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://your-gif-link.com" alt="Animated Banner" width="800"/>
+</p>
+
+<h1 align="center">Hi, I'm Najeeb Ullah! 👋</h1>
+<h3 align="center">I am a student at FAST-NUCES, pursuing a BS in Artificial Intelligence</h3>
+
+<!-- GitHub Stats -->
+<p align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najeebullah3124&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <div class="typing-animation">Exploring the world of AI, Machine Learning, and Deep Learning.</div>
+</p>
+
+<!-- Progress -->
+![Progress](https://img.shields.io/badge/Deep_Learning-80%25-brightgreen)
+
+<!-- Social Media Links with Animations -->
+<p align="center">
+  [![Instagram](https://img.shields.io/badge/Instagram-@yourusername-red?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+</p>
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=najeebullah3124&label=Profile%20views&color=0e75b6&style=flat)
+
+
 <h1 align="center">Hi 👋, I'm Najeeb ullah</h1>
 <h3 align="center">I am a student at FAST-NUCES, pursuing a BS in Artificial Intelligence</h3>
 
