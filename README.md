@@ -25,4 +25,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najeebullah3124&show_icons=true&locale=en&layout=compact" alt="najeebullah3124" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=najeebullah3124&" alt="najeebullah3124" /></p>
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najeebullah3124&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=najeebullah3124" alt="GitHub Streak" />
+</p>
