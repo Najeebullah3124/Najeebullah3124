@@ -26,3 +26,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=najeebullah3124&show_icons=true&locale=en&layout=compact" alt="najeebullah3124" /></p>
 
 
+### ☕ Buy Me a Coffee
+
+If you enjoy my work, consider buying me a coffee to support me!
+
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=yourusername&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
+</a>
